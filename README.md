@@ -40,38 +40,12 @@ I'm a **Computer Science Engineer** passionate about **AI/ML, Computer Vision, S
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,spring,fastapi,postgres,mysql,mongodb,docker,aws,git,github,postman&perline=9"/>
 </p>
 
----
-
-## 📜 Patent & Research
-
-### 🚦 Road Sign Recognition System
-
-**CNN + YOLO + Reinforcement Learning + GAN**
-
-- 58-class road-sign dataset
-- **92.20% CNN + YOLO accuracy**
-- 🇮🇳 Indian Utility Patent Application No. **202621072786**
-- **Team Leader • Applicant & Inventor**
-
----
-
-## 🚀 Featured Projects
-
-- 🚦 **Road Sign Recognition** — CNN • YOLO • GAN • RL
-- 💹 **Equifiz FinTech** — Next.js • PostgreSQL • Prisma • WebSockets • RabbitMQ
-- 🧾 **TrueGST OCR** — Python • OCR • LLM
-- 🤖 **Telegram Automation** — Python • Spring Boot • PostgreSQL
-- ⚡ **FastAPI Task Management** — FastAPI • PostgreSQL • Docker
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **NPTEL Java Gold Medalist – 2025**
 - 🎯 **NPTEL Top 2% National Rank**
 - 🤖 **NPTEL Machine Learning Certified**
 - 📜 **Published Indian Utility Patent**
-- 🎓 **Academic Top Ranker**
 - 👨‍💻 **NPTEL–IIT Ropar Application Developer Intern**
 
 ---
